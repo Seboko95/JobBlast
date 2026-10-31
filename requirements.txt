@@ -1,0 +1,10 @@
+python-telegram-bot==21.6
+httpx==0.27.2
+python-dotenv==1.0.1
+anthropic
+beautifulsoup4
+pypdf
+python-docx
+fastapi
+uvicorn
+python-multipart
