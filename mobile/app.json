@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "JobBlast",
+    "slug": "jobblast-mobile",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "jobblast",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.jobblast.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#0f172a"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
